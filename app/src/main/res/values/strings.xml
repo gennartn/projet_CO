@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Organisation des Souhait</string>
+    <string name="app_name2">BGGGGGGGGGG</string>
+    <string name="nom_utilisateur">Nom utilisateur</string>
+    <string name="mot_de_passe">Mot de passe</string>
 </resources>
